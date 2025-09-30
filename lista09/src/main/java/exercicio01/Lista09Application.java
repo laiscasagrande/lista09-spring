@@ -1,4 +1,4 @@
-package com.example.lista09;
+package exercicio01;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
